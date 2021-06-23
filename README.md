@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jay-patel24
 - 👀 I’m interested in developing applications.
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning NestJS
 - 📫 reach me : jay@katchintech.com
 
 <!---
